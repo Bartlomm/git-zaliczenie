@@ -90,6 +90,7 @@ void LedStepLeft(){
 void LedStepRight(){
 	LedStep(RIGHT);
 }
+//kolejan zmiana 
 
 int main(){
 	LedInit();
