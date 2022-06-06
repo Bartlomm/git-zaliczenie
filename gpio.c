@@ -65,7 +65,7 @@ enum KeyboardState eKeyboardRead(){
 }
 
 
-//ZMIANA NR 2
+//ZMIANA NR 28282
 
 void KeyboardInit(){
 	IO0DIR =IO0DIR&(~(BUT0_bm|BUT1_bm|BUT2_bm|BUT3_bm));
