@@ -8,6 +8,8 @@
 #define BUT2_bm 0x20
 #define BUT3_bm 0x80
 
+//zmiana 1
+
 void delay(int iMiliSeconds){
 	int iDelayMaker;
 	int iLoopsPerSeconds=iMiliSeconds*2380;
