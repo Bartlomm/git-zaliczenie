@@ -8,6 +8,8 @@
 #define BUT2_bm 0x20
 #define BUT3_bm 0x80
 
+
+//git test
 //zmiana 13434
 
 void delay(int iMiliSeconds){
